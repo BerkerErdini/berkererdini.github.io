@@ -3,10 +3,6 @@ My personal portfolio website
 
 
 
-
-
-
-
 Credits:
 	Main Template:
 		HTML5UP (html5up.com)
